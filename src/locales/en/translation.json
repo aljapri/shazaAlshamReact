@@ -1,0 +1,288 @@
+{
+    "logo_name": {
+      "first": "Shaza",
+      "second": "Alsham"
+    },
+    "menus": [
+      { "name": "Job opportunities", "link": "works" },
+      { "name": "Privacy and Quality", "link": "privacy&quality" },
+      { "name": "Contact Us", "link": "contact" },
+      { "name": "brochure", "link": "brochure" },
+      { "name": "Our Products", "link": "products" },
+      { "name": "About Us", "link": "aboutUs" },
+      { "name": "Home", "link": "" }
+    ],
+    "languages": {
+      "ar": "العربية",
+      "en": "English"
+    },
+    "phone": "Phone",
+    "slides": [
+      {
+        "img": "/img6.jpeg",
+        "title": "Fresh Products",
+        "description": "We offer a variety of fresh and high-quality products to ensure your family's nutritional needs are met.",
+        "location": "Section One"
+      },
+      {
+        "img": "/img2.jpg",
+        "title": "High-Quality Olives",
+        "description": "We provide the best types of olives, whether green or black, fresh, nutritious, and suitable for all your uses.",
+        "location": "Olive Section"
+      },
+      {
+        "img": "/img5.jpg",
+        "title": "Fresh Vegetables",
+        "description": "Find the best types of fresh and nutritious vegetables, straight from the farm to your table.",
+        "location": "Vegetable Section"
+      },
+      {
+        "img": "/img3.jpg",
+        "title": "Fresh Fruits",
+        "description": "Enjoy a variety of the most delicious and fresh fruits for better health.",
+        "location": "Fruit Section"
+      },
+      {
+        "img": "/img4.jpg",
+        "title": "Organic Products",
+        "description": "We provide you with healthy organic food options that ensure complete nutrition for your family.",
+        "location": "Section Four"
+      }
+    ],
+    "aboutSection": {
+      "heading": "Empowering Each Other to Succeed",
+      "paragraph": "In every step we take towards the future, we place quality at the forefront of our priorities. Together, we work passionately to ensure we deliver the best food products to our customers, with every partnership we establish becoming a part of our ongoing story of delivering excellence.",
+      "info": [
+        {
+          "number": 30,
+          "title": "Years of Experience"
+        },
+        {
+          "number": 20,
+          "title": "Products"
+        },
+        {
+          "number": 52,
+          "title": "Clients"
+        }
+      ]
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "description": "If you have any questions or need support, feel free to contact us. We are here to help you and meet all your needs.",
+      "phone": "+963 989557805 ",
+      "email": "Info@shazaalsham.com",
+      "address": "Head Office ",
+      "address1": "Halbouni, Damascus, Syrian Arab Republic",
+      "followUs": "Follow Us",
+      "contactForm": "",
+      "name": "Your Name",
+      "emailLabel": "Your Email",
+      "subject": "Subject",
+      "subjects": ["Purchase", "Suggestion", "Complaint", "Other"],
+      "pruchaseProducts": [
+        "Apricot Jam",
+        "Fig Jam (Whole Grain)",
+        "Fig Jam",
+        "Cherry Jam",
+        "Rose Jam",
+        "Apricot Jam",
+        "Strawberry Jam",
+        "Roasted Zenon",
+        "Black Wheaton (Salvini)",
+        "Green Olives (Salvini)",
+        "Black Olives (Napali)",
+        "Green Olives (Apple)",
+        "Grilled Eggplant",
+        "Grape Leaves",
+        "Whole Chickpeas (Balila)",
+        "Eggplant Makdous",
+        "Eggplant Moussaka",
+        "Baked Beans",
+        "Pickled Cucumbers",
+        "Pomegranate Molasses",
+        "Natural Apple Cider Vinegar",
+        "Pickled Peppers"
+      ],
+      "product": "Products",
+      "quantity": "Quantity per piece",
+      "country": "Country",
+      "city": "City",
+      "clientAddress": "Address",
+      "message": "Message",
+      "sendMessage": "Send Message"
+    },
+    "footer": {
+      "companyName": "Shaza Alsham",
+      "companyDescription": "Shaza Alsham is a company specializing in providing the finest local food products, committed to offering high-quality products that meet our customers' needs.",
+      "usefulLinks": "Useful links",
+      "contact": "Contact",
+      "address": "Halbouni, Damascus, Syrian Arab Republic",
+      "email": "Info@shazaalsham.com",
+      "phone": "+963 989557805",
+      "fax": "+963 112232014",
+      "socialMedia": "Social Media",
+      "footerNote": "© 2023 Copyright: Shaza Alsham"
+    },
+    "types": {
+      "header": "Our Products",
+      "description": " We take care to select the best natural ingredients to ensure a delicious taste and high nutritional value.",
+      "items": [
+        {
+          "id": 1,
+          "label": "jams",
+          "link": "jams",
+          "image": "/jam1.jpg"
+        },
+        {
+          "id": 2,
+          "label": "Olives",
+          "link": "olives",
+          "image": "/olive1.jpg"
+        },
+        {
+          "id": 3,
+          "label": "Pinks",
+          "link": "pinks",
+          "image": "/pickle1.jpg"
+        },
+        {
+          "id": 4,
+          "label": "Canned foods",
+          "link": "peans",
+          "image": "/peans1.jpg"
+        }
+      ]
+    },
+    "about": {
+      "title": "About Shaza Alsham",
+      "sections": {
+        "whoWeAre": {
+          "title": "Who We Are",
+          "content": "Shaza Alsham is a leading company in the food products sector, specializing in offering the finest local and natural food products. We are committed to providing high-quality products that meet consumer needs and achieve customer satisfaction."
+        },
+        "vision": {
+          "title": "Our Vision",
+          "content": "To be at the forefront of food companies in the region, continuously developing our products and adhering to the highest standards of quality and safety to provide the best value to our customers."
+        },
+        "mission": {
+          "title": "Our Mission",
+          "content": "To deliver healthy and natural food products with exceptional quality, while adhering to ethical and professional values in all aspects of our work."
+        },
+        "values": {
+          "title": "Our Values",
+          "content": [
+            "Quality: We strive to provide the best products with the highest standards of quality.",
+            "Integrity: We are committed to transparency and honesty in all our dealings.",
+            "Innovation: We constantly seek new ways to improve our products and services.",
+            "Sustainability: We are committed to practices that protect the environment and support the community."
+          ]
+        },
+        "history": {
+          "title": "Our History",
+          "content": "Shaza Alsham was established in [Year of Establishment], and since then we have been striving for excellence in the food sector. Thanks to our dedication and commitment to quality, we have built a strong reputation and earned the trust of our customers."
+        },
+        "services": {
+          "title": "Our Services",
+          "content": "We offer a wide range of food products including oils, canned goods, spices, and more. We work on developing innovative products that meet consumer needs and keep up with the latest trends in the food industry."
+        }
+      }
+    },
+    "qualityPolicy": {
+      "title": "Quality and Food Safety Policy | Shaza Alsham",
+      "header": "Quality and Food Safety Policy of Shaza Alsham",
+      "commitmentsTitle": "Our Quality Commitments",
+      "commitments": [
+        "Ensuring the highest standards of food safety and hygiene.",
+        "Continuous improvement through regular audits and inspections.",
+        "Compliance with local and international food safety regulations.",
+        "Using the finest ingredients in all our products."
+      ],
+      "foodSafetyTitle": "Food Safety Policy",
+      "foodSafetyContent": "We are committed to globally recognized food safety practices to ensure that every product we provide is safe and healthy for consumption. Our team maintains a culture of food safety by carefully monitoring every stage of production.",
+      "foodSafetyContentAdditional": "Through regular training and updating our processes, we ensure that our products remain compliant with evolving standards in the food industry."
+    },
+    "products": {
+      "jams": "Jams",
+      "olive": "Olives",
+      "peanuts": "Canned foods",
+      "pinks": "Pinks"
+    },
+    "productCategories": {
+      "jams": [
+        { "id": 1, "src": "/jams/jam1.png", "name": "Strawberry Jam" },
+        { "id": 2, "src": "/jams/jam2.png", "name": "Blueberry Jam" },
+        { "id": 3, "src": "/jams/jam3.png", "name": "Blueberry Jam" },
+        { "id": 4, "src": "/jams/jam4.png", "name": "Blueberry Jam" },
+        { "id": 5, "src": "/jams/jam5.png", "name": "Blueberry Jam" },
+        { "id": 6, "src": "/jams/jam6.png", "name": "Blueberry Jam" },
+        { "id": 7, "src": "/jams/jam7.png", "name": "Blueberry Jam" }
+      ],
+      "olive": [
+        { "id": 1, "src": "/olive/olive1.png", "name": "Green Olives" },
+        { "id": 2, "src": "/olive/olive2.png", "name": "Black Olives" },
+        { "id": 3, "src": "/olive/olive3.png", "name": "Black Olives" },
+        { "id": 4, "src": "/olive/olive4.png", "name": "Black Olives" },
+        { "id": 5, "src": "/olive/olive5.png", "name": "Black Olives" }
+      ],
+      "peanuts": [
+        { "id": 1, "src": "/peans/peans1.png", "name": "فول سوداني مملح" },
+        { "id": 2, "src": "/peans/peans2.png", "name": "فول سوداني محمص" },
+        { "id": 3, "src": "/peans/peans3.png", "name": "Roasted Peanuts" },
+        { "id": 4, "src": "/peans/peans4.png", "name": "Roasted Peanuts" },
+        { "id": 5, "src": "/peans/peans5.png", "name": "Roasted Peanuts" },
+        { "id": 6, "src": "/peans/peans6.png", "name": "Roasted Peanuts" }
+      ],
+      "pinks": [
+        { "id": 1, "src": "/pink/pink1.png", "name": "Pink Item 1" },
+        { "id": 2, "src": "/pink/pink2.png", "name": "Pink Item 2" },
+        { "id": 3, "src": "/pink/pink3.png", "name": "Pink Item 3" },
+        { "id": 4, "src": "/pink/pink4.png", "name": "Pink Item 4" }
+      ]
+    },
+    "careers": {
+      "title": "Careers | Shatha Al Sham",
+      "header": "Careers at Shatha Al Sham",
+      "intro": "Join our team and contribute to delivering high-quality food products.",
+      "jobs": [
+        {
+          "title": "Sales Manager",
+          "description": "We are looking for a Sales Manager with experience in sales and customer relations.",
+          "requirements": [
+            "At least 3 years of experience in sales.",
+            "Strong communication skills.",
+            "Ability to work under pressure."
+          ]
+        },
+        {
+          "title": "Financial Accountant",
+          "description": "We need a Financial Accountant experienced in preparing financial reports and data analysis.",
+          "requirements": [
+            "Bachelor's degree in accounting or finance.",
+            "At least 5 years of experience.",
+            "Proficiency in financial software such as Excel and SAP."
+          ]
+        },
+        {
+          "title": "Marketing Manager",
+          "description": "We are looking for a Marketing Manager experienced in developing marketing strategies and driving sales.",
+          "requirements": [
+            "Bachelor's degree in marketing or a related field.",
+            "At least 7 years of experience in marketing.",
+            "Creativity and ability to manage marketing teams."
+          ]
+        },
+        {
+          "title": "Factory Worker",
+          "description": "We are looking for a factory worker to work in production lines, capable of handling machinery and equipment.",
+          "requirements": [
+            "Ability to work in a manufacturing environment.",
+            "Punctuality and discipline.",
+            "Teamwork skills.",
+            "No prior experience required (training available)."
+          ]
+        }
+      ]
+    }
+  }
+  
